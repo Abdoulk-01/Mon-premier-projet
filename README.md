@@ -1,2 +1,8 @@
 # Mon-premier-projet
-Mon premier projet pour apprendre GitHub
+BONJOUR!
+Je suis Abdoul 
+Je suis etudiant en GC 
+## Mes objectif
+- Apprendre GitHub
+- Apprendre la programmation
+- realiser des projrts informatiques 
