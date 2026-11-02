@@ -1,0 +1,7 @@
+MON PREMIER PROJET GITHUB 
+
+Je decouvre Git et GitHub. 
+Mon objectif est d'apprendre la programmation.
+Je souhait developper des outils informatique utiles au Genie Civil
+
+FIN DE MA PRESENTATION
